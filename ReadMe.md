@@ -6,12 +6,19 @@ This project involves using machine learning techniques to detect Alzheimer's Di
 
 ## Table of Contents
 Project Overview
+
 Dataset
+
 Installation
+
 Usage
+
 Notebook Contents
+
 Results
+
 Contributing
+
 
 ## Project Overview
 Alzheimer's Disease (AD) is a progressive neurodegenerative disorder that affects millions of people worldwide. Early detection is crucial for managing the disease and improving patient outcomes. This project aims to leverage machine learning techniques to analyze medical imaging data and other relevant features to detect Alzheimer's Disease.
